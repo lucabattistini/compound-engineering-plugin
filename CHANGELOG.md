@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.5.1](https://github.com/EveryInc/compound-engineering-plugin/compare/cli-v3.5.0...cli-v3.5.1) (2026-05-05)
+
+
+### Bug Fixes
+
+* **ce-worktree:** resolve script path against skill dir, not user CWD ([#772](https://github.com/EveryInc/compound-engineering-plugin/issues/772)) ([4cc1ee6](https://github.com/EveryInc/compound-engineering-plugin/commit/4cc1ee6fe2a353cd0b8e7466ec27e9556b042ee3))
+
 ## [3.5.0](https://github.com/EveryInc/compound-engineering-plugin/compare/cli-v3.4.2...cli-v3.5.0) (2026-05-04)
 
 
